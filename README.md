@@ -21,7 +21,7 @@ href = address of the room.
 
 target="_blank" = whether you enter through a new door (new tab).
 
-## **2**. Internal Links (#id)
+## **2.** Internal Links (#id)
 
 Jump to a section in the same page.
 
