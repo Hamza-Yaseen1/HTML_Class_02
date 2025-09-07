@@ -20,7 +20,8 @@ target="_blank" → Opens in new tab.
 href = address of the room.
 
 target="_blank" = whether you enter through a new door (new tab).
-## 2. Internal Links (#id)
+
+## **2**. Internal Links (#id)
 
 Jump to a section in the same page.
 
@@ -32,7 +33,7 @@ Jump to a section in the same page.
 📖 Analogy: Like a bookmark inside a book.
 
 
-## 3. Navigation Between Pages
+## **3**. Navigation Between Pages
 <!-- index.html -->
 <a href="/about.html">About</a>
 
