@@ -233,9 +233,3 @@ In this class, we covered:
 8. `<ul>`, `<ol>`, `<li>` – Lists
 9. `<details>` & `<summary>` – Expandable info
 10. `<progress>` – Progress bar
-
-✨ These are the **building blocks of navigation and content organization** in HTML websites.
-
----
-
-Hamza, do you want me to **merge this detailed markdown into Class 1’s README as well** (so students can scroll from basics → advanced in one file), or should I keep each class in a **separate folder with its own README**?
